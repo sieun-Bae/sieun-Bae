@@ -8,8 +8,8 @@
 
 <br>
 <a href="https://github.com/sieun-Bae/django-nlp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieun-Bae&repo=django-nlp&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieun-Bae&repo=django-nlp&theme=buefy" />
 </a>
 <a href="https://github.com/sieun-Bae/feature-engineering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieun-Bae&repo=feature-engineering&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieun-Bae&repo=feature-engineering&theme=buefy" />
 </a>
