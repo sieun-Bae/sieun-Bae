@@ -6,9 +6,10 @@
 ![Stars](https://img.shields.io/github/stars/sieun-Bae?color=%23ff6e96&logoColor=%23282a36)
 
 <br>
-<a href="https://github.com/sieun-Bae/django-nlp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieun-Bae&repo=django-nlp&theme=buefy" />
-</a>
 <a href="https://github.com/sieun-Bae/feature-engineering">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieun-Bae&repo=feature-engineering&theme=buefy" />
 </a>
+<a href="https://github.com/sieun-Bae/django-nlp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieun-Bae&repo=django-nlp&theme=buefy" />
+</a>
+
