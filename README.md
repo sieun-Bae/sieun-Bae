@@ -1,3 +1,4 @@
+
 ![sieun-Bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieun-Bae&theme=dracula&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieun-Bae&theme=dracula&layout=compact)](https://github.com/sieun-Bae/github-readme-stats)
 <br>
@@ -5,3 +6,10 @@
 ![Followers](https://img.shields.io/github/followers/sieun-Bae?color=%23ff6e96&logoColor=%23282a36)
 ![Stars](https://img.shields.io/github/stars/sieun-Bae?color=%23ff6e96&logoColor=%23282a36)
 
+<br>
+<a href="https://github.com/sieun-Bae/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieun-Bae&repo=django-nlp" />
+</a>
+<a href="https://github.com/sieun-Bae/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieun-Bae&repo=feature-engineering" />
+</a>
