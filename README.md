@@ -1,5 +1,4 @@
 <h3 align='center'> 🙋‍♀️ Sieun Bae | 💻 Data-driven SW Developer </h3> 
-### Hey there, I'm a data-driven software developer, Sieun-Bae 
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sieun-Bae&theme=monokai&show_icons=true&count_private=true"></p>
 <br>
