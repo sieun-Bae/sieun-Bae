@@ -9,7 +9,10 @@
 </p>
 <br>
 
-
+<p align='center'> 
+<a href="https://www.linkedin.com/in/sieun-bae-3022ab174/"><img height="32" src="https://github.com/sieun-Bae/sieun-Bae/blob/main/icon/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/baesieun"><img height="30" src="https://github.com/sieun-Bae/sieun-Bae/blob/main/icon/facebook.png"></a>&nbsp;&nbsp;
+<a href="mailto:qotldms130@gmail.com?subject=subject text"><img height="30" src="https://github.com/sieun-Bae/sieun-Bae/blob/main/icon/gmail.png"></a>&nbsp;&nbsp;
 
 
 <!--br>
