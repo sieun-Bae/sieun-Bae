@@ -4,6 +4,7 @@
 **sieun-Bae/sieun-Bae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Sieun-Bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieun-Bae)](https://github.com/sieun-Bae/github-readme-stats)
+![Sieun-Bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieun-Bae&count_private=true)
 
 Here are some ideas to get you started:
 
