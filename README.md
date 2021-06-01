@@ -1,4 +1,4 @@
-<h3 align='center'> 🙋‍♀️ Sieun Bae | 💻 Data-driven SW Developer </h3> 
+<h3 align='center'> 🙋‍♀️ Sieun Bae | 💻 Data-driven SW Engineer </h3> 
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sieun-Bae&theme=monokai&show_icons=true&count_private=true"></p>
 <br>
